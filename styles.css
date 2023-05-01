@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.form #ques{
+	font-weight:bold;
+}
+blockquote{
+	max-width: 600px;
+	margin: 10px;
+	background-color: #f8fffe;
+	padding: 15px;
+	border-left: 8px solid green;
+    font-weight: bold;
+}
